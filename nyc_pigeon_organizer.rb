@@ -14,6 +14,10 @@ def nyc_pigeon_organizer(data)
         end
 
         result[name][key] = new_value.to_s
+
+
+      }}}
+      result
         
 
 
